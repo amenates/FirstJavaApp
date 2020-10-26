@@ -8,6 +8,5 @@ public class Lesson1 {
         System.out.println("Мне известно, что мне ничего не извесно!");
         System.out.println("Вот последняя правда, открытая мной");
         System.out.println("                                  О.Хайям");
-        System.out.println("This is test for GitHub");
     }
 }
