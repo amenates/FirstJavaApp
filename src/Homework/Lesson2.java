@@ -32,10 +32,10 @@ public class Lesson2 {
          System.out.println(i3);
          System.out.println(i4);
          
-         long l1 = 123456789;
-         long l2 = 0B111_0101_1011_1100_1101_0001_0101;
-         long l3 = 0_726_746_425;
-         long l4 = 0X75B_CD15;
+         long l1 = 123456789L;
+         long l2 = 0B111_0101_1011_1100_1101_0001_0101L;
+         long l3 = 0_726_746_425L;
+         long l4 = 0X75B_CD15L;
          
          System.out.println(l1);
          System.out.println(l2);
