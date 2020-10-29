@@ -17,9 +17,10 @@ public class Test4 {
         int ostatoc = a % b; // Остаток от деления a на b
         
         int x = 5;
+        int u = x++;
         
 //        System.out.println(celoyaChast);
 //        System.out.println(ostatoc);
-        System.out.println(x++);
+        System.out.println(u);
     }
 }

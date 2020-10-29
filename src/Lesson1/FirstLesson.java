@@ -1,6 +1,6 @@
 package Lesson1;
 
-public class Test1 {
+public class FirstLesson {
     public static void main(String[] args) {
 //      System.out.print("My name is ");
 //      System.out.println("Julia");
